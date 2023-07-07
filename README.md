@@ -2,7 +2,9 @@
 
 This is a Rubik's Cube Simulator, programmed in javascript and THREE.js
 
-The following is a simple simulation of the achieved result ( The gif might render a big buggy on github, but the actual rotation is very smooth in the program ) 
+The following is a simple simulation of the achieved result 
+a) The gif might render a big buggy on github, but the actual rotation is very smooth in the program 
+b) The black border around the cubes, stays like a location of where the cubes will position themselves after rotation. If it seems trippy, one can disable the borders 
 
 ![main_gif](https://github.com/irrevocablesake/The-Cyber-Cube/blob/main/images/the%20cube%20animation.gif)
 
